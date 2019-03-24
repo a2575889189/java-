@@ -1,28 +1,29 @@
 
 
 /**
- * 用来测试注释的用法（包含：多行注释、单行注释、文档注释）
- * @author 高淇
+ * 鐢ㄦ潵娴嬭瘯娉ㄩ噴鐨勭敤娉曪紙鍖呭惈锛氬琛屾敞閲娿�佸崟琛屾敞閲娿�佹枃妗ｆ敞閲婏級
+ * @author 楂樻穱
  *
  */
 //hellowold
+//xiugaidierci
 public class TestComment {
 	
 	/**
-	 * 这是程序的入口
-	 * @param args 参数
+	 * 杩欐槸绋嬪簭鐨勫叆鍙�
+	 * @param args 鍙傛暟
 	 */
-	//修改测试3333344666
+	//淇敼娴嬭瘯3333344666
 	
-	public static void main(String[] args/* args是参数名，可以更改*/ ) {
-		System.out.println("测试注释！");		//这是打印语句...
+	public static void main(String[] args/* args鏄弬鏁板悕锛屽彲浠ユ洿鏀�*/ ) {
+		System.out.println("娴嬭瘯娉ㄩ噴锛�");		//杩欐槸鎵撳嵃璇彞...
 	}
 
 	/*
-	 我是多行注释！
-	 我是多行注释！ 
-	  我是多行注释！
-	  我是多行注释！
+	 鎴戞槸澶氳娉ㄩ噴锛�
+	 鎴戞槸澶氳娉ㄩ噴锛� 
+	  鎴戞槸澶氳娉ㄩ噴锛�
+	  鎴戞槸澶氳娉ㄩ噴锛�
 	 */
 	
 }
